@@ -1,0 +1,72 @@
+Buca Di Beppo's Chicken Carbonara
+====
+
+Metadata
+====
+
+Restaurant: Buca Di Beppo
+
+Source: http://triblive.com/x/pittsburghtrib/lifestyles/fooddrink/s_624452.html#axzz2Ehlw42KJ
+
+Prep Time: 30 minutes
+
+First Tested: 2012
+
+Yields: 4-6 servings
+
+Ingreedients
+====
+
+Buca-style Alfredo Sauce (can substitute jar of sauce)
+* 1 quart heavy cream
+* 4 tablespoons softened butter
+* 2 cups parmesan cheese
+* Salt and pepper to taste
+
+Chicken Carbonara
+* 1/2 cup olive oil
+* 8 ounces prosciutto, thinly sliced (can substitute bacon)
+* 1/4 cup chopped garlic
+* 1 1/2 cups cooked chicken strips
+* 1 1/2 cups heavy cream
+* 1 1/2 cups Alfredo Sauce (recipie attached)
+* 2/3 cup peas
+* black pepper to taste
+
+Directions
+====
+
+Alfredo Sauce
+
+Heat the cream over medium heat until reduced by a third. Add the softened
+butter, stirring constantly, then incorporate the cheese, and salt and pepper
+to taste.
+
+Chicken Carbonara
+
+Buca di Beppo uses prosciutto instead of bacon in this dish, because prosciutto
+has a lot less fat. A classic carbonara dish uses bacon, says executive
+chef-partner Joshua Schreiber.
+
+Schreiber says prosciutto gives it a more robust flavor, too. Make sure you
+saute the prosciutto until it's crispy on the outside but still chewy on the
+inside, and always cook on medium heat for this dish.
+
+The Alfredo sauce is not the classic Buca di Beppo recipe -- that's a secret.
+But Schreiber offers his own interpretation.
+
+In a saute pan, heat the olive oil over medium heat until very hot.
+
+Add the prosciutto slices, and saute until the prosciutto starts to brown and has bubbly white caps (see Photo 1).
+
+Add the chopped garlic and saute just long enough for the garlic to begin to caramelize (Photo 2).
+
+Add the chicken, cream and Alfredo sauce, and slowly bring the sauce to a simmer.
+
+Add the peas (Photo 3), and season with black pepper.
+
+Cook until the sauce thickens slightly and the chicken is hot.
+
+Toss the cooked pasta with the sauce and incorporate well (Photo 4). Serve immediately.
+
+
