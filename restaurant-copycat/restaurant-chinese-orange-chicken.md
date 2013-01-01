@@ -1,0 +1,93 @@
+Restaurant Chinese Orange Chicken
+====
+
+Metadata
+====
+
+Restaurant: Any chinese place
+
+Source: http://www.recipelion.com/Restaurant-Recipes/Panda-Express-Style-Orange-Chicken/ml/1#yvwUyJF18t2QRuhB.99
+
+First Tested: 2012-12-30
+
+Prep Time: 60 minutes
+
+Yields: 2 lbs
+
+Ingredients
+====
+
+* 2 pounds chicken pieces, boneless and skinned
+* 1 egg
+* 1 1/2 teaspoon salt
+* White pepper
+* Oil for frying (we used peanut oil)
+* 1/2 cup plus 1 tablespoon cornstarch
+* 1/4 cup flour
+* 1 tablespoon ginger root, minced
+* 2 teaspoon garlic, minced
+* 1 dash red hot chilies (optional)
+* 1/4 cup green onions, chopped
+* 1 tablespoon rice wine
+* 1/4 cup water
+* 1 teaspoon sesame oil
+* 2 teaspoon orange zest, minced
+* 1/4 cup orange juice
+* 1/2 teaspoon granulated sugar
+* 2 tablespoon chicken stock
+* 1 tablespoon light soy sauce
+
+Directions
+====
+
+First prepare sauce and set aside (see sauce directions below)
+
+Chicken
+====
+Cut chicken pieces in 2-inch squares and place in large bowl. Stir in egg,
+salt, pepper, and 1 tablespoon oil and mix well.
+ 
+Stir 1/2 cup cornstarch and flour together. Add chicken pieces, stirring to
+coat.
+ 
+Heat oil for deep-frying in wok or deep-fryer to 375 degrees F. Add chicken
+pieces, a small batch at time, and fry 3 to 4 minutes or until golden and
+crisp. Do not overcook or chicken will be tough. Remove chicken from oil with
+slotted spoon and drain on paper towels. Set aside.
+ 
+Clean wok and heat 15 seconds over high heat. Add 1 tablespoon oil. Add ginger
+and garlic and stir-fry until fragrant. Add and stir-fry crushed chiles and
+green onions. Add rice wine and stir 3 seconds. Add Sauce you set aisde above
+and bring to boil. Add cooked chicken, stirring until well mixed.
+ 
+Stir water into remaining 1 tablespoon cornstarch until smooth. Add to chicken
+and heat until sauce is thick. Stir in 1 teaspoon sesame oil.
+
+Serve Immediately
+
+Orange Sauce
+====
+(This is the original sauce designed to mimic orange chicken at Panda Express)
+
+Original recipie called for 1/2 tablespoon of sugar, but recommend 1/2 cup of
+sugar at least.  Spenda works but may require extra cornstarch.
+
+Combine orange zest, orange juice, granulated sugar, chicken stock and soy
+sauce in a small bowl and set aside.
+
+Optionally, try adding more sugar next time1
+Optionally, garnish with very thin orange slices
+
+Lemon Sauce
+====
+We tried this and it turned out well, but not sweet enough, so I upped the sugar.
+
+Combine lemon zest, lemon juice, 1/2 cup granulated sugar, chicken stock and soy
+sauce in a small bowl and set aside.
+
+TODO:  Generals Spicey Sauce
+
+![Orange Chicken](orange-chicken.jpg)
+![Lemon Chicken](lemon-chicken1.jpg)
+![Lemon Chicken closeup](lemon-chicken2.jpg)
+
