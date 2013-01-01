@@ -88,6 +88,8 @@ sauce in a small bowl and set aside.
 TODO:  Generals Spicey Sauce
 
 ![Orange Chicken](orange-chicken.jpg)
+
 ![Lemon Chicken](lemon-chicken1.jpg)
+
 ![Lemon Chicken closeup](lemon-chicken2.jpg)
 
