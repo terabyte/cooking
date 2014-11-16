@@ -1,2 +1,3 @@
-[("katiemyrs",User {uUsername = "katiemyrs", uPassword = Password {pSalt = ";e;4:HPun4La8saS4EY3lit;lwYZnqKN", pHashed = "968339c3212e9b950267f582849cfc34f110603f807792015f2ec82e967ae7dd9ef38ec567e8aecd93d528470952c6a87ec695dfe8141c1e1924eaa43e371683"}, uEmail = "katie.a.humphreys@gmail.com"})
+[("cmyers",User {uUsername = "cmyers", uPassword = Password {pSalt = "[48l<GLpG;t7W=fqSmTS?tIvf^aVZ_s1", pHashed = "750cfd64243a6b546841ce4346fd6b787f26f954e58025f1213763ab79c2b543bfed7d6499d45bfece8589d6e6719b68aeb04de03619a06987b60ec619bce6b8"}, uEmail = ""})
+,("katiemyrs",User {uUsername = "katiemyrs", uPassword = Password {pSalt = ";e;4:HPun4La8saS4EY3lit;lwYZnqKN", pHashed = "968339c3212e9b950267f582849cfc34f110603f807792015f2ec82e967ae7dd9ef38ec567e8aecd93d528470952c6a87ec695dfe8141c1e1924eaa43e371683"}, uEmail = "katie.a.humphreys@gmail.com"})
 ]
