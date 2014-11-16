@@ -10,6 +10,11 @@ then
     ln -s git/wiki-config/static static
 fi
 
+if [[ ! -e gitit-users ]];
+then
+    ln -s git/wiki-config/gitit-users gitit-users
+fi
+
 if [[ ! -e templates ]];
 then
     ln -s git/wiki-config/templates templates
