@@ -1,8 +1,6 @@
-Fried Chicken Sandwiches
-====
+# Fried Chicken Sandwiches
 
-Metadata
-====
+## Metadata
 
 Restaurant: The gay haters
 
@@ -14,8 +12,7 @@ Prep Time: 30 minutes
 
 Yields: 4 sandwiches
 
-Ingredients
-====
+# Ingredients
 
 * 2   skinless, boneless chicken breasts (about 6 ounces each)
 *     Kosher salt and freshly ground pepper
@@ -34,8 +31,7 @@ Ingredients
 * 4   soft hamburger buns, split
 * 1   tablespoon unsalted butter, softened
 
-Directions
-====
+# Directions
 
 Cut the chicken breasts in half horizontally to make 4 thin cutlets. Place the
 cutlets between 2 pieces of heavy-duty plastic wrap and pound to 1/8-inch thick
